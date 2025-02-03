@@ -35,6 +35,13 @@ Start the symfony server
 ```
 docker exec -it symfony_app symfony server:start
 ```
+It should not fail, but just in case: To create the fixtures in the db
+```
+
+docker exec -it symfony_app php bin/console make:migration
+ docker exec -it symfony_app php bin/console doctrine:migrations:migrate
+docker exec -it symfony_app php bin/console doctrine:fixtures:load
+````
 
 Then, to execute some of the tests that are asked:
 
