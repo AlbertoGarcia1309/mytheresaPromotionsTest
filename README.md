@@ -1,6 +1,3 @@
-
-Entendido, te haré una explicación detallada de las tecnologías utilizadas en tu proyecto para la prueba técnica, destacando por qué elegiste cada una. Aquí está la actualización del README.md con esa información:
-
 Capitole Mytheresa Alberto
 This repository is part of the Capitole Mytheresa Alberto project, built as a technical test using Symfony, PHP, and Docker. This project showcases a clean and maintainable architecture, leveraging modern technologies and best practices.
 
