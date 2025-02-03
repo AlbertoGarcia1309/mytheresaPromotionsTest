@@ -58,8 +58,3 @@ MySQL: For the database layer, I used MySQL as the relational database managemen
 Docker: Docker is a platform for developing, shipping, and running applications in containers. I chose Docker for this project because it allows me to create a consistent and isolated environment for development. This helps avoid issues that may arise due to differences between local and production environments. Docker also makes it easy to manage dependencies like PHP, MySQL, and Symfony without worrying about system-level conflicts.
 
 Git: Git is used for version control, allowing me to track changes, collaborate with others, and manage different versions of the codebase efficiently. Git is widely adopted in the development community, and its flexibility and speed make it a key tool for managing project history.
-
-Usage:
-
-
-Once the project is set up locally with Docker, you can access the web application by navigating to http://localhost:8000 in your browser.
