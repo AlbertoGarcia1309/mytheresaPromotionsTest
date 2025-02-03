@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="C:\Users\wifia\PhpstormProjects\capitole-mytheresa-alberto\phpunit.xml.dist" tests="4" assertions="41" errors="0" failures="0" skipped="0" time="0.239796">
+    <testsuite name="Project Test Suite" tests="4" assertions="41" errors="0" failures="0" skipped="0" time="0.239796">
+      <testsuite name="App\tests\Controller\ProductControllerTest" file="C:\Users\wifia\PhpstormProjects\capitole-mytheresa-alberto\src\tests\Controller\ProductControllerTest.php" tests="4" assertions="41" errors="0" failures="0" skipped="0" time="0.239796">
+        <testcase name="testGetProducts" file="C:\Users\wifia\PhpstormProjects\capitole-mytheresa-alberto\src\tests\Controller\ProductControllerTest.php" line="9" class="App\tests\Controller\ProductControllerTest" classname="App.tests.Controller.ProductControllerTest" assertions="30" time="0.193701"/>
+        <testcase name="testGetProductsWithoutFilters" file="C:\Users\wifia\PhpstormProjects\capitole-mytheresa-alberto\src\tests\Controller\ProductControllerTest.php" line="54" class="App\tests\Controller\ProductControllerTest" classname="App.tests.Controller.ProductControllerTest" assertions="4" time="0.014719"/>
+        <testcase name="testGetProductsWithPriceLessThanFilter" file="C:\Users\wifia\PhpstormProjects\capitole-mytheresa-alberto\src\tests\Controller\ProductControllerTest.php" line="65" class="App\tests\Controller\ProductControllerTest" classname="App.tests.Controller.ProductControllerTest" assertions="4" time="0.015557"/>
+        <testcase name="testGetProductsWithCategoryFilter" file="C:\Users\wifia\PhpstormProjects\capitole-mytheresa-alberto\src\tests\Controller\ProductControllerTest.php" line="84" class="App\tests\Controller\ProductControllerTest" classname="App.tests.Controller.ProductControllerTest" assertions="3" time="0.015819"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testsuites>
