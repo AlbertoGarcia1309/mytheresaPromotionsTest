@@ -1,17 +1,7 @@
 Capitole Mytheresa Alberto
 This repository is part of the Capitole Mytheresa Alberto project, built as a technical test using Symfony, PHP, and Docker. This project showcases a clean and maintainable architecture, leveraging modern technologies and best practices.
 
-Table of Contents
-Installation
-Technologies
-Usage
-Contributing
-License
-Installation
-To install and set up the project locally, follow these steps:
-
 Clone the repository:
-
 
 ````
 bash
@@ -54,7 +44,9 @@ To execute php units tests:
  docker exec -it symfony_app ./vendor/bin/phpunit
 ```
 
-Technologies
+Technologies:
+
+
 This project utilizes the following technologies:
 
 Symfony: Symfony is a PHP framework that provides a flexible and reusable set of components for building modern web applications. I chose Symfony for its strong architectural patterns, such as MVC, and its robust ecosystem of tools and bundles that make development faster and more efficient. Additionally, Symfony integrates well with various databases and other services, which makes it a great choice for scalable web applications.
@@ -67,5 +59,7 @@ Docker: Docker is a platform for developing, shipping, and running applications 
 
 Git: Git is used for version control, allowing me to track changes, collaborate with others, and manage different versions of the codebase efficiently. Git is widely adopted in the development community, and its flexibility and speed make it a key tool for managing project history.
 
-Usage
+Usage:
+
+
 Once the project is set up locally with Docker, you can access the web application by navigating to http://localhost:8000 in your browser.
