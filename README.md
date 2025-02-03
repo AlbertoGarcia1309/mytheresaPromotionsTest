@@ -53,7 +53,7 @@ Symfony: Symfony is a PHP framework that provides a flexible and reusable set of
 
 PHP 7/8: PHP is a widely-used programming language that powers many modern websites and applications. The choice of PHP 7/8 allows for the use of the latest features and improvements, providing better performance and security than older versions. Symfony is optimized to work seamlessly with these versions of PHP.
 
-MySQL: For the database layer, I used MySQL as the relational database management system. MySQL is highly reliable, fast, and widely supported, making it a natural choice for handling structured data in web applications. I opted for MySQL due to its robustness and compatibility with Docker, making it easy to manage in a containerized environment.
+MySQL: For the database layer, I used MySQL as the relational database management system. MySQL is highly reliable, fast, and widely supported, making it a natural choice for handling structured data in web applications. I opted for MySQL due to its robustness and compatibility with Docker, making it easy to manage in a containerized environment. If the data increases, reddis could be used to improve performance.
 
 Docker: Docker is a platform for developing, shipping, and running applications in containers. I chose Docker for this project because it allows me to create a consistent and isolated environment for development. This helps avoid issues that may arise due to differences between local and production environments. Docker also makes it easy to manage dependencies like PHP, MySQL, and Symfony without worrying about system-level conflicts.
 
