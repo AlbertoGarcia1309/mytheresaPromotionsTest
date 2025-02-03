@@ -1,11 +1,10 @@
-Capitole Mytheresa Alberto
-This repository is part of the Capitole Mytheresa Alberto project, built as a technical test using Symfony, PHP, and Docker. This project showcases a clean and maintainable architecture, leveraging modern technologies and best practices.
+This repository is part of the Capitole Mytheresa promotions asssignment., built as a technical test using Symfony, PHP, and Docker. This project showcases a clean and maintainable architecture, leveraging modern technologies and best practices.
 
 Clone the repository:
 
 ````
 bash
-git clone https://github.com/your-username/capitole-mytheresa-alberto.git
+git clone https://github.com/AlbertoGarcia1309/capitole-mytheresa-alberto.git
 ````
 Navigate to the project directory:
 
